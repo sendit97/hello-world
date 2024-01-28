@@ -7,7 +7,8 @@
 <hd1>Welcome</hd1>
 <p> My name is Banana. This is my <strong>Blog</strong>
 </p>
-p {background-color: pink;
+body {
+font-weight: bold;
 }
 </body>
 </html>
