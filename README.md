@@ -7,8 +7,8 @@
 <hd1>Welcome</hd1>
 <p> My name is Banana. This is my <strong>Blog</strong>
 </p>
-body {
-font-weight: bold;
+<style body {
+font-weight: bold;>
 }
 </body>
 </html>
