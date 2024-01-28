@@ -5,10 +5,7 @@
     </head>
 <body>
 <hd1>Welcome</hd1>
-<p> My name is Banana. This is my <strong>Blog</strong>
+<p> <line-style line-color: pink </p> <p> My name is Banana. This is my <strong>Blog</strong>
 </p>
-<style body {
-font-weight: bold;>
-}
 </body>
 </html>
