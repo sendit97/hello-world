@@ -8,8 +8,7 @@
 <p> My name is Banana. This is my <strong>Blog</strong>
 </p>
 </body>
-p{sty
-}
-body{background-color=pink
+
+body {background-color=pink
 }
 </html>
